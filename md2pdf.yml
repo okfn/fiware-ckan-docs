@@ -1,0 +1,6 @@
+files_order:
+    - 'docs/installation.md'
+    - 'docs/user_guide.md'
+cover_metadata:
+    title: 'CKAN Documentation'
+    Author: 'Open Knowledge'
