@@ -1,0 +1,5 @@
+files_order:
+    - 'user_guide.md'
+cover_metadata:
+    title: "CKAN User and Programmer's Guide"
+    Author: 'Open Knowledge'

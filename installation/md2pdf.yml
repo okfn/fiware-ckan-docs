@@ -1,0 +1,5 @@
+files_order:
+    - 'installation.md'
+cover_metadata:
+    title: 'CKAN Installation and Admin Guide'
+    Author: 'Open Knowledge'
